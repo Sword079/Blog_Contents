@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微机原理/汇编语言常用指令.md",
+                "file": "系统工程/期中复习.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微机原理/汇编语言常用指令.md",
+                "file": "系统工程/期中复习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微机原理/汇编语言常用指令.md",
+                "file": "系统工程/期中复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "微机原理/汇编语言常用指令.md"
+                "file": "系统工程/期中复习.md"
               }
             }
           }
@@ -146,17 +146,20 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "cf00f3e98d5e665e",
   "lastOpenFiles": [
-    "微机原理/标识位.md",
-    "微机原理/汇编语言常用指令.md",
+    "机器人设计基础/第四章 零件强度、刚度分析的基本知识.md",
     "微机原理/未命名.md",
+    "机器人设计基础/未命名",
+    "微机原理/汇编语言常用指令.md",
+    "微机原理/标识位.md",
     "微机原理/微处理器与系统结构.md",
-    "系统工程/期中复习（？）.md",
+    "系统工程/期中复习.md",
     "Pasted image 20231116224143.png",
     "Pasted image 20231116223839.png",
     "Pasted image 20231116223738.png",
@@ -176,7 +179,6 @@
     "现代控制原理/第一章.md",
     "机器人设计基础/第一章.md",
     "机器人设计基础/第五章.md",
-    "机器人设计基础/第四章 零件强度、刚度分析的基本知识.md",
     "机器人设计基础/第三章 机械工程常用材料及钢的热处理.md",
     "现代控制原理/离散系统差分.md",
     "战术相关/Spotrep侦察小组情报记录.md",
