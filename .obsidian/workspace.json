@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,7 +150,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "cf00f3e98d5e665e",
+  "active": "13c9319f8df2eb39",
   "lastOpenFiles": [
     "README.md",
     "机器人设计基础/第四章 零件强度、刚度分析的基本知识.md",
