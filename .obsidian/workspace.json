@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "系统工程/期中复习.md",
+                "file": "传感器/调制解调.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "系统工程/期中复习.md",
+                "file": "传感器/调制解调.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "系统工程/期中复习.md",
+                "file": "传感器/调制解调.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "系统工程/期中复习.md"
+                "file": "传感器/调制解调.md"
               }
             }
           }
@@ -150,8 +150,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "13c9319f8df2eb39",
+  "active": "cf00f3e98d5e665e",
   "lastOpenFiles": [
+    "系统工程/期中复习.md",
+    "传感器/调制解调.md",
+    "传感器/未命名",
     "传感器",
     "README.md",
     "机器人设计基础/第四章 零件强度、刚度分析的基本知识.md",
@@ -160,7 +163,6 @@
     "微机原理/汇编语言常用指令.md",
     "微机原理/标识位.md",
     "微机原理/微处理器与系统结构.md",
-    "系统工程/期中复习.md",
     "Pasted image 20231116224143.png",
     "Pasted image 20231116223839.png",
     "Pasted image 20231116223738.png",
@@ -188,7 +190,6 @@
     "战术相关",
     "现代控制原理/Drawing 2023-10-22 20.01.16.excalidraw.md",
     "现代控制原理",
-    "微机原理",
-    "模式识别与机器学习"
+    "微机原理"
   ]
 }
