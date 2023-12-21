@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "传感器/调制解调.md",
+                "file": "微机原理/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "传感器/调制解调.md",
+                "file": "微机原理/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "传感器/调制解调.md",
+                "file": "微机原理/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "传感器/调制解调.md"
+                "file": "微机原理/未命名.md"
               }
             }
           }
@@ -152,8 +152,8 @@
   },
   "active": "cf00f3e98d5e665e",
   "lastOpenFiles": [
-    "系统工程/期中复习.md",
     "传感器/调制解调.md",
+    "系统工程/期中复习.md",
     "传感器/未命名",
     "传感器",
     "README.md",
