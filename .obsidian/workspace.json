@@ -4,23 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "3f895ded67645a6f",
-        "type": "tabs",
+        "id": "d07690e733c1b007",
+        "type": "split",
         "children": [
           {
-            "id": "cf00f3e98d5e665e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "微机原理/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "3f895ded67645a6f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cf00f3e98d5e665e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "数字图像处理/未命名.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "9dbb5fde85dca299",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b9a621e2cbfe5e55",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微机原理/未命名.md",
+                "file": "数字图像处理/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微机原理/未命名.md",
+                "file": "数字图像处理/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "微机原理/未命名.md"
+                "file": "数字图像处理/未命名.md"
               }
             }
           }
@@ -135,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,13 +173,16 @@
   },
   "active": "cf00f3e98d5e665e",
   "lastOpenFiles": [
+    "微机原理/未命名.md",
+    "数字图像处理/未命名.md",
+    "数字图像处理",
+    "未命名.canvas",
     "传感器/调制解调.md",
     "系统工程/期中复习.md",
     "传感器/未命名",
     "传感器",
     "README.md",
     "机器人设计基础/第四章 零件强度、刚度分析的基本知识.md",
-    "微机原理/未命名.md",
     "机器人设计基础/未命名",
     "微机原理/汇编语言常用指令.md",
     "微机原理/标识位.md",
@@ -189,7 +213,6 @@
     "机器人设计基础",
     "战术相关",
     "现代控制原理/Drawing 2023-10-22 20.01.16.excalidraw.md",
-    "现代控制原理",
-    "微机原理"
+    "现代控制原理"
   ]
 }
