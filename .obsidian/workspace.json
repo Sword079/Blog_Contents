@@ -10,6 +10,7 @@
           {
             "id": "3f895ded67645a6f",
             "type": "tabs",
+            "dimension": 60.922330097087375,
             "children": [
               {
                 "id": "cf00f3e98d5e665e",
@@ -17,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "数字图像处理/未命名.md",
+                    "file": "数字图像处理/课程思维导图.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -29,6 +30,7 @@
           {
             "id": "9dbb5fde85dca299",
             "type": "tabs",
+            "dimension": 39.07766990291262,
             "children": [
               {
                 "id": "b9a621e2cbfe5e55",
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数字图像处理/未命名.md",
+                "file": "数字图像处理/课程思维导图.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数字图像处理/未命名.md",
+                "file": "数字图像处理/课程思维导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数字图像处理/未命名.md"
+                "file": "数字图像处理/课程思维导图.md"
               }
             }
           }
@@ -174,7 +176,7 @@
   "active": "cf00f3e98d5e665e",
   "lastOpenFiles": [
     "微机原理/未命名.md",
-    "数字图像处理/未命名.md",
+    "数字图像处理/课程思维导图.md",
     "数字图像处理",
     "未命名.canvas",
     "传感器/调制解调.md",
