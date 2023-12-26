@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "最优化方法/期中复习.md",
+                "file": "传感器/期末复习.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "最优化方法/期中复习.md",
+                "file": "传感器/期末复习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "最优化方法/期中复习.md",
+                "file": "传感器/期末复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "最优化方法/期中复习.md"
+                "file": "传感器/期末复习.md"
               }
             }
           }
@@ -152,11 +152,13 @@
   },
   "active": "cf00f3e98d5e665e",
   "lastOpenFiles": [
+    "传感器/调制解调.md",
+    "传感器/期末复习.md",
+    "最优化方法/期中复习.md",
     "数字图像处理/课程思维导图.md",
     "微机原理/未命名.md",
     "数字图像处理",
     "未命名.canvas",
-    "传感器/调制解调.md",
     "系统工程/期中复习.md",
     "传感器/未命名",
     "传感器",
@@ -170,7 +172,6 @@
     "Pasted image 20231116223839.png",
     "Pasted image 20231116223738.png",
     "系统工程",
-    "最优化方法/期中复习.md",
     "Pasted image 20231113234007.png",
     "Pasted image 20231113212459.png",
     "Pasted image 20231113194147.png",
