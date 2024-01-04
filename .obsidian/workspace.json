@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模式识别与机器学习/未命名.md",
+                "file": "微机原理/历年卷.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模式识别与机器学习/未命名.md",
+                "file": "微机原理/历年卷.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模式识别与机器学习/未命名.md",
+                "file": "微机原理/历年卷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模式识别与机器学习/未命名.md"
+                "file": "微机原理/历年卷.md"
               }
             }
           }
@@ -152,15 +152,16 @@
   },
   "active": "ca37075152da297a",
   "lastOpenFiles": [
+    "微机原理/标识位.md",
+    "模式识别与机器学习/未命名.md",
     "Pasted image 20240104201818.png",
     "Pasted image 20240104200615.png",
     "现代控制原理/第二章.md",
-    "模式识别与机器学习/未命名.md",
     "数字图像处理/课程思维导图.md",
     "传感器/期末复习.md",
     "传感器/调制解调.md",
     "最优化方法/期中复习.md",
-    "微机原理/未命名.md",
+    "微机原理/历年卷.md",
     "数字图像处理",
     "未命名.canvas",
     "系统工程/期中复习.md",
@@ -170,7 +171,6 @@
     "机器人设计基础/第四章 零件强度、刚度分析的基本知识.md",
     "机器人设计基础/未命名",
     "微机原理/汇编语言常用指令.md",
-    "微机原理/标识位.md",
     "微机原理/微处理器与系统结构.md",
     "Pasted image 20231116224143.png",
     "Pasted image 20231116223839.png",
@@ -184,7 +184,6 @@
     "最优化方法",
     "Pasted image 20231113160428.png",
     "Pasted image 20231113145950.png",
-    "Pasted image 20231113145834.png",
     "现代控制原理/第一章.md",
     "机器人设计基础/第一章.md",
     "机器人设计基础/第五章.md",
