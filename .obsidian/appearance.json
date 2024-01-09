@@ -1,6 +1,7 @@
 {
-  "accentColor": "",
-  "baseFontSize": 19,
-  "cssTheme": "Minimal",
-  "theme": "obsidian"
+  "accentColor": "#1692d4",
+  "baseFontSize": 23,
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter"
 }
